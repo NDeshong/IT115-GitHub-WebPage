@@ -11,7 +11,7 @@ html {
 
 ::selection {
     color: #000; 
-    background: #ff0;
+    background: #23bce9;
 }
 
 h1 {
@@ -22,7 +22,7 @@ h1 {
 }
 
 main.wrapper {
-    background-color: white;
+    background-color: #23bce9;
     overflow: auto;
 }
 
