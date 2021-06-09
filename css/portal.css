@@ -47,6 +47,31 @@ a:hover {
     text-decoration: none;
 }
 
+/* Game-Dev Section */
+.game-dev {
+    padding: 15px;
+}
+.container {
+    padding: 10px;
+    text-align: center;
+}
+.section {
+    padding: 25px 10px;
+    width: 30%;
+    vertical-align: top;
+    text-align: left;
+    display: inline-block;
+}
+
+.section ul li{
+    display: inline-block;
+}
+
+.section img {
+    width: 100%;
+}
+/* End */
+
 footer {
     clear: both;
     text-align: center;
@@ -85,6 +110,13 @@ footer {
     h1 {
         width: 89%;
         padding-left: 1%;
+    }
+
+    .section {
+        width: 70%;
+        display: block;
+        text-align: center;
+        margin: 0 auto;
     }
     
     picture.profile img {
